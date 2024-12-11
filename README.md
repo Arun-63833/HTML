@@ -1,2 +1,2 @@
 # HTML
-Simple html files 
+Simple html files for practice
